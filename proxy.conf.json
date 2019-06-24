@@ -1,0 +1,10 @@
+{
+  "/tabeldata-oauth2-auth-server": {
+    "target": "http://localhost:8080",
+    "secure": false
+  },
+  "/tabeldata-oauth2-resource-server": {
+    "target": "http://localhost:9090",
+    "secure": false
+  }
+}
